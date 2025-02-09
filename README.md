@@ -40,7 +40,7 @@ Ensuite, construisez l'image Docker en exécutant la commande suivante :
 docker build -t obfus_socat .
 ```
 
-Fichiers de configuration nécessaires
+## Fichiers de configuration nécessaires
 
 Pour que obfus_socat fonctionne correctement, vous devez disposer des fichiers SSL suivants dans le répertoire config/ de votre projet :
 
