@@ -4,7 +4,7 @@
 
 ## Installation
 
-## Création de l'image Docker
+### Création de l'image Docker
 
 Pour installer les dépendances et créer l'image Docker, commencez par créer un fichier `Dockerfile` dans votre répertoire de projet avec le contenu suivant :
 
